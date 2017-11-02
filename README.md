@@ -1,5 +1,7 @@
 # Cringu
 
+[![Join the chat at https://gitter.im/cringu/cringu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cringu/cringu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+
 A game framework for libSDL2 on crystal, inspired by ippa/chingu.
 
 ![Cringu Header Image](https://github.com/cringu/cringu/blob/master/assets/cringu-50.png?raw=true)
