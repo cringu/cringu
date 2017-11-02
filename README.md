@@ -2,7 +2,7 @@
 
 A game framework for libSDL2 on crystal, inspired by ippa/chingu.
 
-![Cringu Header Image]()
+![Cringu Header Image](https://github.com/cringu/cringu/blob/master/assets/cringu-50.png?raw=true)
 
 ## Installation
 Will be here soon.
